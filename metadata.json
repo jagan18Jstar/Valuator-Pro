@@ -1,0 +1,6 @@
+{
+  "name": "real estate price predictor.com",
+  "description": "An AI-powered real estate valuation engine that provides property estimates, value driver analysis, and market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
